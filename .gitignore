@@ -1,4 +1,4 @@
-c# macOS
+# macOS
 .DS_Store
 
 # Python
@@ -19,7 +19,7 @@ env/
 logs/
 plugins/__pycache__/
 config/__pycache__/
-.cfg/
+config/*.cfg
 
 # Editors/IDE
 .vscode/
