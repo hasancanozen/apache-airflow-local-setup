@@ -19,7 +19,7 @@ env/
 logs/
 plugins/__pycache__/
 config/__pycache__/
-.cfg
+.cfg/
 
 # Editors/IDE
 .vscode/
