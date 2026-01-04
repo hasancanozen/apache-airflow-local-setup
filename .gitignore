@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pyo
+*.pyd
+*.so
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Airflow & project artifacts
+logs/
+plugins/__pycache__/
+config/__pycache__/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Docker
+*.log
